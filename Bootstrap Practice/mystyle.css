@@ -1,0 +1,22 @@
+.Totalsize{ 
+height :50vh;
+width: 50vw;
+opacity: 50%;
+ }
+
+ .color-icon{
+color: darkmagenta;
+background-color: darkred;
+border-radius: 5px;
+ }
+
+ .sombra{
+    text-shadow: 2px 2px 8px #11aa6a;
+ }
+
+ .sombra-caja{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+
+ }
